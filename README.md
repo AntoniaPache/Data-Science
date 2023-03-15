@@ -1,2 +1,2 @@
 # Data-Science
-Proyectos de cursos
+Proyectos o practicas de cursos realizados.
